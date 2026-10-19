@@ -16,7 +16,7 @@
   * **Backbone:** Formed between backbone atoms ($C=O$ and $N-H$) of virtually any amino acid to maintain secondary structures ($\alpha$-helices/$\beta$-sheets).
   * **Side-chain:** Formed between polar/charged residues (such as Ser, Thr, Tyr, Asn, Gln, Asp, Glu, Arg, Lys, His) to stabilize TP53's (3KMB) 3D structure and DNA-binding region.
 
-![TP53 Structure Hydrogen Bonds](./image/p53_structure.png)
+![TP53 Structure Hydrogen Bonds](imagep53_structure.png)
 
 ---
 
